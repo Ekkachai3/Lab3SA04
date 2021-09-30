@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
     layout2: { flexDirection:'row-reverse',flex:0.1, width: '100%', height: '100%',backgroundColor: 'black',opacity: 0.5},
     box_opacity: { backgroundColor: 'black', opacity: 0.5, paddingTop: 10 },
     text: { textAlign: 'center', color: 'white', fontSize: 20 },
-    text_name: { textAlign: 'center', color: 'orange', fontSize: 20 ,marginTop:15},
+    text_name: { textAlign: 'center', color: 'yellow', fontSize: 20 ,marginTop:15},
     bott:{borderRadius: 10}
 
 });
